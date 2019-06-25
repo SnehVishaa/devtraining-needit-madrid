@@ -152,6 +152,25 @@
             <sys_updated_on>2019-06-24 07:44:42</sys_updated_on>
             <value>finance 2</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 06:45:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a180e238079af300ee99f0269c1ed0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 06:45:21</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_what_needed</element>
             <name>x_58872_needit_needit</name>
